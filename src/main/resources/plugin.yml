@@ -1,0 +1,6 @@
+name: FireballShooter
+version: 1.0
+main: net.justinthetrucker.FireballShooter
+api-version: 1.19
+author: JustinTheTrucker
+description: A plugin that shoots fireballs when players swing their arms holding a stick
